@@ -5,3 +5,6 @@
 #nvm use 16.13.1
 #npm i -g @angular/cli@~14.0.6
 #npm i
+#ng serve
+##
+##http://localhost:4200
